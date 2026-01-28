@@ -11,6 +11,7 @@ int main()
 
     int a, b, t;
 
+
     for (a = 1; a < size; a++)
     {
         for (b = size - 1; b >= a; b--)
