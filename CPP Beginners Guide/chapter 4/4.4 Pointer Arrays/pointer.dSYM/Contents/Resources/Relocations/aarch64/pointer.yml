@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/rai/Projects/Quant-Learning/CPP Beginners Guide/chapter 4/4.4 Pointer Arrays/pointer'
+relocations:
+  - { offset: 0x1CEA, size: 0x8, addend: 0x0, symName: __Z7isupperi, symObjAddr: 0x98, symBinAddr: 0x100000738, symSize: 0x20 }
+  - { offset: 0x1D35, size: 0x8, addend: 0x0, symName: __Z7toloweri, symObjAddr: 0xB8, symBinAddr: 0x100000758, symSize: 0x1C }
+  - { offset: 0x1D69, size: 0x8, addend: 0x0, symName: __Z7toupperi, symObjAddr: 0xD4, symBinAddr: 0x100000774, symSize: 0x1C }
+  - { offset: 0x24DC, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xF909, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x25E9, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_pointer.cpp, symObjAddr: 0x2EC, symBinAddr: 0x100000914, symSize: 0x14 }
+  - { offset: 0x2600, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x2B0, symBinAddr: 0x1000008D8, symSize: 0x3C }
+  - { offset: 0x261E, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xF0, symBinAddr: 0x100000790, symSize: 0x148 }
+  - { offset: 0x267B, size: 0x8, addend: 0x0, symName: __Z8__istypeim, symObjAddr: 0x20, symBinAddr: 0x1000006C0, symSize: 0x78 }
+  - { offset: 0x26BC, size: 0x8, addend: 0x0, symName: __Z7isasciii, symObjAddr: 0x0, symBinAddr: 0x1000006A0, symSize: 0x20 }
+...

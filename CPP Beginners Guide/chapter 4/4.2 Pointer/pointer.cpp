@@ -18,5 +18,20 @@ int main()
     cout << num << " ";
     cout << *p << " ";
 
+    cout << num << " ";
+    (*p)++;
+    cout << num << " ";
+    (*p)++;
+    cout << num << " ";
+    (*p)++;
+
+    cout << num << " ";
+    cout << *p << endl
+         << endl
+         << endl
+         << endl;
+
+    cout << *p++;
+
     return 0;
 }
